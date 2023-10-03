@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f15bdb2.css",
+    "main.js": "/static/js/main.610fdffa.js",
+    "static/js/787.2374ce8c.chunk.js": "/static/js/787.2374ce8c.chunk.js",
+    "static/media/webImage.jpg": "/static/media/webImage.3917bf8c30f22f7e74fc.jpg",
+    "static/media/hacker-with-laptop-922359280-jpg": "/static/media/hacker-with-laptop-922359280-5c32d4a546e0fb00011bb991.961229be7db7beec78bf.jpg",
+    "static/media/wp7828550.jpg": "/static/media/wp7828550.70ff2fa764a0f036acda.jpg",
+    "index.html": "/index.html",
+    "main.0f15bdb2.css.map": "/static/css/main.0f15bdb2.css.map",
+    "main.610fdffa.js.map": "/static/js/main.610fdffa.js.map",
+    "787.2374ce8c.chunk.js.map": "/static/js/787.2374ce8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f15bdb2.css",
+    "static/js/main.610fdffa.js"
+  ]
+}
